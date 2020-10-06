@@ -30,6 +30,7 @@ Two javascript scripts as imported: data.js and the script.js
 The data.js file contains the mnist class which downloads the sprites, slices it up, download the labels and give you batches that you can load into the classfier    
 The script.js file contains the handling of the canvas, it has the infrence and has the training  
 
+To run this project you need a web server, the chrome server is used : https://www.chromebeat.com/ 
 
 
 
